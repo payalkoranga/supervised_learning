@@ -8,7 +8,7 @@
 - Loaded housing dataset and trained a Linear Regression model to predict prices
 - Evaluated model performance using R² score
 - Plotted predicted vs actual house prices
-- Loaded cleaned Titanic dataset and trained a Logistic Regression model
+- Loaded Titanic dataset and trained a Logistic Regression model
 - Evaluated model using accuracy score and confusion matrix
 
 ## Tools Used
